@@ -11,7 +11,7 @@ This program parses flow log data and maps each row to a tag based on a lookup t
 ## Installation
 1. Clone this repository:
    ```bash
-   git clone 
+   git clone https://github.com/pallivishnu4444/flow_log_parser.git
    ```
 2. Download the flow logs and lookup table and place them in the project folder.
 
