@@ -18,5 +18,5 @@ This program parses flow log data and maps each row to a tag based on a lookup t
 ## How to Run the Program
 To run the program, use the following command:
 ```bash
-python flow_log_parser.py
+python assesment.py
 
